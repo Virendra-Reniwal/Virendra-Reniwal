@@ -16,7 +16,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virendra-reniwal" alt="virendra-reniwal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/virendrareniwal" target="blank"><img src="https://img.shields.io/twitter/follow/virendrareniwal?logo=twitter&style=for-the-badge" alt="virendrareniwal" /></a> </p>
 
 - 🔭 I’m currently working on **NEXT.JS & MERN**
 
