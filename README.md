@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **virenderreniwal884@gmail.com**
 
-- 👨‍💻 All of my projects are available at ([https://virendra-reniwal.github.io/Portfolio/](https://virendra-reniwal.github.io/Portfolio/))
+- 👨‍💻 All of my projects are available at [https://virendra-reniwal.github.io/Portfolio/](https://virendra-reniwal.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
